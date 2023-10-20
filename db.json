@@ -1,0 +1,85 @@
+{
+  "financialHistory": [
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-19T02:54:47.924Z",
+      "type": "Income",
+      "description": "4444",
+      "expenseType": "Health",
+      "amount": 54,
+      "id": 1
+    },
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-19T02:54:47.924Z",
+      "type": "Income",
+      "description": "0000",
+      "expenseType": "Health",
+      "amount": 0,
+      "id": 2
+    },
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-19T03:01:54.935Z",
+      "type": "Income",
+      "description": "rrrrrr",
+      "expenseType": "Education",
+      "amount": 55555,
+      "id": 3
+    },
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-20T03:31:32.000Z",
+      "type": "Expense",
+      "description": "4444444",
+      "expenseType": "Shopping",
+      "amount": 4545,
+      "id": 4
+    },
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-19T03:44:36.390Z",
+      "type": "Expense",
+      "description": "44455",
+      "expenseType": "Food",
+      "amount": 4545,
+      "id": 5
+    },
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-18T04:00:00.000Z",
+      "type": "Expense",
+      "description": "55555",
+      "expenseType": "Food",
+      "amount": 45,
+      "id": 6
+    },
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-20T01:17:28.096Z",
+      "type": "Income",
+      "description": "44444",
+      "expenseType": "Salary",
+      "amount": 44444,
+      "id": 7
+    },
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-20T01:17:28.096Z",
+      "type": "Income",
+      "description": "99999999",
+      "expenseType": "Investments",
+      "amount": 999999999,
+      "id": 8
+    },
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-20T01:45:09.702Z",
+      "type": "Expense",
+      "description": "asdfasda",
+      "expenseType": "Food",
+      "amount": 555555,
+      "id": 9
+    }
+  ]
+}
